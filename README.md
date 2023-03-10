@@ -7,3 +7,9 @@
 
 ---
 
+pip install poetry
+
+poetry install 
+
+pytest tests/test.py
+
